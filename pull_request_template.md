@@ -18,4 +18,9 @@
 - [ ] I've tested my changes with keyboard and screen readers
 - [ ] My code follows the accessibility standards
 - [ ] My code is properly documented
+
 - [ ] I've declared any PII (Personally Identifiable Information) for anonymization
+
+<!-- Declare that the code in this PR was built with AI assistance. Doing so helps set expectations for reviewers, and you may remove this line if the code was not written with such assistance. (AI assisted documentation or pull request texts do not need to be declared) -->
+> [!IMPORTANT]
+> The code in this pull request was developed using AI assistance, and quality assured by me.
